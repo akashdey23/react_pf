@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react_pf/static/css/main.20684c20.css",
+    "main.js": "/react_pf/static/js/main.a50dd24b.js",
+    "static/js/415.4d6acbeb.chunk.js": "/react_pf/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react_pf/static/js/787.1ed0c42c.chunk.js",
+    "static/media/suicide.png": "/react_pf/static/media/suicide.9c86cd7138a398c45fa5.png",
+    "static/media/akash_tech_resume.pdf": "/react_pf/static/media/akash_tech_resume.6150c6366964a4623b43.pdf",
+    "static/media/akash.jpeg": "/react_pf/static/media/akash.44687dc7e842b2ade459.jpeg",
+    "static/media/about.png": "/react_pf/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/home-bg.jpg": "/react_pf/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "index.html": "/react_pf/index.html",
+    "static/media/pre.svg": "/react_pf/static/media/pre.c82e94bcf0ea4c99b4cd.svg",
+    "main.20684c20.css.map": "/react_pf/static/css/main.20684c20.css.map",
+    "main.a50dd24b.js.map": "/react_pf/static/js/main.a50dd24b.js.map",
+    "415.4d6acbeb.chunk.js.map": "/react_pf/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react_pf/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20684c20.css",
+    "static/js/main.a50dd24b.js"
+  ]
+}
